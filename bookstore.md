@@ -16,16 +16,16 @@ Customers return or exchange items that they have purchased, following the store
 ## Use case diagram :
 ![WhatsApp Image 2024-01-30 at 3 28 58 PM](https://github.com/Harshtherocking/OOAD-ICS-222/assets/65885345/ef84e15b-c748-46b5-bac8-833ce1486b3e)
 
-- Actor :
+#### Actor :
   - Customer
   - Cashier
   - Store Manager
 
-- Use Cases :
+#### Use Cases :
   - Purchase Items
   - Return or Exchange Items
 
-- Relationship :
+#### Relationship :
   - Association : Customer places order with Cashier
   - Association : Cashier processes order
   - Association : Store Manager oversees checkout operation
